@@ -13,6 +13,6 @@
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft%20Azure&logoColor=white)](https://portal.azure.com)
 [![Oracle](https://img.shields.io/badge/-Oracle-C74634?style=flat&logo=Oracle&logoColor=white)](https://cloud.oracle.com/?tenant=Astares)
 
- 
+[![astares GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=astares)](https://github.com/astares/github-readme-stats-fast)
 
 
